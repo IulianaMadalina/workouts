@@ -1,0 +1,16 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "text": "15 MIN BOXING CARDIO - Aerobic Style: dancy, cool & rhythmic ",
+      "day": "Monday",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "BED - Joel Corry x RAYE x David Guetta / BOXING WARM UP ROUTINE",
+      "day": "Tuesday",
+      "reminder": true
+    }
+  ]
+}
